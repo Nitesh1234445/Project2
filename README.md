@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-Thought by Shradha Khapra Mam.
+Thought by Shradha Khapra Mam
